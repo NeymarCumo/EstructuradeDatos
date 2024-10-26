@@ -1,0 +1,10 @@
+[
+    {
+        
+
+    }
+]
+
+consta initApp = () =>{
+    fotch('')
+}
